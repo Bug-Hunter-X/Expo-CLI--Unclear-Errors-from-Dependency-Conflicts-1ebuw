@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI with a project that has a package.json file containing certain dependencies that are incompatible or missing required peer dependencies.  This can manifest in unexpected ways, and the error messages from the Expo CLI might not always pinpoint the exact source of the issue.
